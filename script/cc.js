@@ -1,9 +1,9 @@
 function cc(id, config) {
     if (config['front'] == undefined) {
-        config['front'] = 'https://cf-1.cdn.御坂网络.御坂美琴.cloudns.org/image/favicon/default/favicon.png';
+        config['front'] = 'https://file-1.御坂网络.100320721.xyz/image/favicon/default/favicon.png';
     };
     if (config['back'] == undefined) {
-        config['back'] = 'https://cf-1.cdn.御坂网络.御坂美琴.cloudns.org/image/favicon/default/favicon.png';
+        config['back'] = 'https://file-1.御坂网络.100320721.xyz/image/favicon/default/favicon.png';
     };
     if (config['width'] == undefined) {
         config['width'] = '100px';
