@@ -1,4 +1,4 @@
-document.write(`
+document.querySelector('body').insertAdjacentHTML("afterbegin", `
     <loading>
         <div class="loading">
             <div class="loading loading-f">
@@ -89,5 +89,4 @@ document.write(`
 
 window.addEventListener('load', () => {
     document.querySelector("loading").innerHTML = '';
-
 });
