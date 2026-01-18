@@ -1,4 +1,4 @@
-/* <script data-cfasync="false" src="https://file-1.御坂网络.100320721.xyz/script/loading/tpf-unb.js"></script> */
+/* <script data-cfasync="false" src="https://file-1.xn--uesr8ql90amna.100320721.xyz/script/loading/tpf-unb.js"></script> */
 
 document.querySelector('body').insertAdjacentHTML("afterbegin", `
     <loading>
@@ -92,5 +92,6 @@ document.querySelector('body').insertAdjacentHTML("afterbegin", `
 window.addEventListener('load', () => {
     document.querySelector("loading").innerHTML = '';
 });
+
 
 
