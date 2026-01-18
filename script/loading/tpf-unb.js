@@ -25,7 +25,7 @@ document.querySelector('body').insertAdjacentHTML("afterbegin", `
                     top: 0;
                     left: 0;
                     background-color: #009edb;
-                    animation: loading_animation 4s infinite;
+                    animation: loading_animation 2s infinite;
                 }
 
                 .loading-f * {
@@ -90,3 +90,4 @@ document.querySelector('body').insertAdjacentHTML("afterbegin", `
 window.addEventListener('load', () => {
     document.querySelector("loading").innerHTML = '';
 });
+
