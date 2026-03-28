@@ -1,4 +1,4 @@
-/*!
+﻿/*!
 
 JSZip v3.10.1 - A JavaScript class for generating and reading zip files
 <http://stuartk.com/jszip>
